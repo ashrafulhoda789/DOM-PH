@@ -1,3 +1,11 @@
 li{
     color: blue;
 }
+
+.section-card{
+    background-color: aquamarine;
+    margin-bottom: 5px;
+    border-radius: 15px;
+    border: 2px solid salmon;
+    padding: 20px;
+}
